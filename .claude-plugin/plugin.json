@@ -38,5 +38,5 @@
   "supportUrl": "https://www.mailopoly.com/support/",
   "privacyPolicyUrl": "https://www.mailopoly.com/privacy/",
   "termsOfServiceUrl": "https://www.mailopoly.com/terms/",
-  "mcpServers": "./mcp.json"
+  "mcpServers": "./.mcp.json"
 }

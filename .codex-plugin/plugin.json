@@ -31,7 +31,7 @@
     "switchboard",
     "agent-messaging"
   ],
-  "mcpServers": "./mcp.json",
+  "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Mailopoly",
     "shortDescription": "Every inbox, one connection",

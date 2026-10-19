@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mailopoly": {
+      "type": "http",
+      "url": "https://fastapi.prod.aws.mailopoly.com/mcp-server/"
+    }
+  }
+}
