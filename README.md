@@ -16,6 +16,8 @@ mail, and draft, reply or send from any of your addresses.
 This repository is the plugin wrapper for Mailopoly's hosted MCP server. It
 contains no code: just the manifests that tell Cursor, Claude Code, Codex and
 other MCP clients where the server is.
+(`mcp.json` is the Cursor copy and `.mcp.json` the Claude/Codex copy of the
+same server definition.)
 
 ```json
 {
