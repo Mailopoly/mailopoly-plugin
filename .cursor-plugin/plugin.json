@@ -2,7 +2,7 @@
   "name": "mailopoly",
   "displayName": "Mailopoly",
   "version": "1.0.0",
-  "description": "Mailopoly gives your AI assistant every inbox you own — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — through one connection — and, with business channels added to your plan, your Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X messages too. Search across all your accounts at once, catch up on what you missed, see bills, deliveries, events and tasks already extracted from your mail, and draft, reply or send from your own address. Reading, making changes and sending are separate permissions you grant on sign-in and can revoke at any time.",
+  "description": "Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — and gives your AI assistant every one of them through a single connection. With business channels added to your plan, your Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X messages too. Search across all your accounts at once, catch up on what you missed, see bills, deliveries, events and tasks already extracted from your mail, and draft, reply or send from your own address. Reading, making changes and sending are separate permissions you grant on sign-in and can revoke at any time.",
   "author": {
     "name": "Mailopoly",
     "email": "support@mailopoly.com",

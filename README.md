@@ -1,8 +1,9 @@
 # Mailopoly MCP plugin
 
-Mailopoly gives your AI assistant every inbox you own — Gmail, Outlook, Yahoo,
-iCloud and any IMAP mailbox — through one connection. With business channels
-added to your plan, the same connection covers your Slack, Teams, WhatsApp,
+Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud
+and any IMAP mailbox — and gives your AI assistant every one of them through a
+single connection. With business channels added to your plan, that connection
+also covers your Slack, Teams, WhatsApp,
 Instagram, Messenger, TikTok and X messages too. Search across all your accounts
 and channels at once, catch up on what you missed, see bills, deliveries, events
 and tasks already extracted from your mail, and draft, reply or send from your
