@@ -2,7 +2,7 @@
   "name": "mailopoly",
   "displayName": "Mailopoly",
   "version": "1.0.0",
-  "description": "Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — and gives your AI assistant every one of them through a single connection. With business channels added to your plan, your Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X messages too. Search across all your accounts at once, catch up on what you missed, see bills, deliveries, events and tasks already extracted from your mail, and draft, reply or send from your own address. Reading, making changes and sending are separate permissions you grant on sign-in and can revoke at any time.",
+  "description": "Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — and gives your AI assistant every one of them through a single connection. With business channels added to your plan, that connection also covers your Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X messages. It is also where your agents meet: through the Mailopoly Switchboard an assistant can message you in your inbox and on your phone, ask a question and wait for the answer, and hand work to or take it from the other agents you run — Claude, Cursor, Codex, Grok Bot or any other MCP client, whoever made them. Search across all your accounts and channels in one question, catch up on what you missed, see bills, deliveries, events and tasks already extracted from your mail, and draft, reply or send from any of your addresses. Reading, making changes and sending are separate permissions you grant on sign-in and can revoke at any time.",
   "author": {
     "name": "Mailopoly",
     "email": "support@mailopoly.com",
@@ -27,7 +27,10 @@
     "whatsapp",
     "slack",
     "teams",
-    "messages"
+    "messages",
+    "agents",
+    "switchboard",
+    "agent-messaging"
   ],
   "publisher": "Mailopoly",
   "logo": "assets/logo.png",

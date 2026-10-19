@@ -1,6 +1,6 @@
 {
   "name": "mailopoly",
-  "description": "Mailopoly: connect all your accounts and business messaging channels at once, and give your AI assistant every one of them through one MCP connection.",
+  "description": "Mailopoly: connect all your accounts, business messaging channels and AI agents at once — one inbox, one MCP connection.",
   "owner": {
     "name": "Mailopoly",
     "email": "support@mailopoly.com",
@@ -10,7 +10,7 @@
     {
       "name": "mailopoly",
       "source": "./",
-      "description": "Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — and gives your AI assistant every one of them, plus Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X with business channels on your plan, through one connection with reading, making changes and sending as separate permissions.",
+      "description": "Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — plus Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X with business channels on your plan, and puts your agents on one Switchboard so they can message you and each other, whoever made them. Reading, making changes and sending are separate permissions.",
       "version": "1.0.0",
       "category": "productivity",
       "keywords": [
@@ -23,7 +23,9 @@
         "mcp",
         "whatsapp",
         "slack",
-        "teams"
+        "teams",
+        "agents",
+        "switchboard"
       ]
     }
   ]

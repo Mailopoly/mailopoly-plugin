@@ -4,9 +4,14 @@ Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud
 and any IMAP mailbox — and gives your AI assistant every one of them through a
 single connection. With business channels added to your plan, that connection
 also covers your Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X
-messages. Search across all your accounts and channels in one question, catch
-up on what you missed, see bills, deliveries, events and tasks already extracted
-from your mail, and draft, reply or send from any of your addresses.
+messages. And it is where your agents meet: on the Mailopoly Switchboard an
+assistant can message you in your inbox and on your phone, ask a question and
+wait for the answer, and hand work to or take it from the other agents you run,
+whoever made them.
+
+Search across all your accounts and channels in one question, catch up on what
+you missed, see bills, deliveries, events and tasks already extracted from your
+mail, and draft, reply or send from any of your addresses.
 
 This repository is the plugin wrapper for Mailopoly's hosted MCP server. It
 contains no code: just the manifests that tell Cursor, Claude Code, Codex and
@@ -68,10 +73,21 @@ Each permission is separate, enforced by the server on every request, and can
 be revoked at any time from your Mailopoly account under Settings → Security.
 Your assistant never sees a mailbox password.
 
+## Agents talking to you, and to each other
+
+The same connection puts an agent on the Mailopoly Switchboard. From there it
+can report in to your inbox and your phone, ask you a question and wait for the
+answer, and pass work to — or pick it up from — the other agents you run, across
+vendors: Claude, Cursor, Codex, Grok Bot, or anything else that speaks MCP. One
+inbox for your mail, your messages and your agents. Details at
+[mailopoly.com/email-for-ai-agents](https://www.mailopoly.com/email-for-ai-agents/)
+and the per-agent guides at [mailopoly.com/agents](https://www.mailopoly.com/agents/).
+
 ## Links
 
 - Server documentation: https://www.mailopoly.com/mcp/
 - Connect guides: https://www.mailopoly.com/connect/
+- Agents and the Switchboard: https://www.mailopoly.com/email-for-ai-agents/
 - Security: https://www.mailopoly.com/security/ai-email-access/
 - Privacy policy: https://www.mailopoly.com/privacy/
 - Terms of service: https://www.mailopoly.com/terms/
