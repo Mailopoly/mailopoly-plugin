@@ -1,0 +1,44 @@
+{
+  "name": "mailopoly",
+  "displayName": "Mailopoly",
+  "version": "1.0.0",
+  "description": "Mailopoly gives your AI assistant every inbox you own — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — through one connection — and, with business channels added to your plan, your Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X messages too. Search across all your accounts at once, catch up on what you missed, see bills, deliveries, events and tasks already extracted from your mail, and draft, reply or send from your own address. Reading, making changes and sending are separate permissions you grant on sign-in and can revoke at any time.",
+  "author": {
+    "name": "Mailopoly",
+    "email": "support@mailopoly.com",
+    "url": "https://www.mailopoly.com"
+  },
+  "homepage": "https://www.mailopoly.com/mcp/",
+  "repository": "https://github.com/Mailopoly/mailopoly-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mailopoly",
+    "email",
+    "inbox",
+    "mail",
+    "gmail",
+    "outlook",
+    "yahoo",
+    "icloud",
+    "imap",
+    "mcp",
+    "productivity",
+    "tasks",
+    "whatsapp",
+    "slack",
+    "teams",
+    "messages"
+  ],
+  "publisher": "Mailopoly",
+  "logo": "assets/logo.png",
+  "category": "productivity",
+  "tags": [
+    "email",
+    "inbox",
+    "gmail",
+    "outlook",
+    "imap",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
