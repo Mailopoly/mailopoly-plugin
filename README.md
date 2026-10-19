@@ -3,11 +3,10 @@
 Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud
 and any IMAP mailbox — and gives your AI assistant every one of them through a
 single connection. With business channels added to your plan, that connection
-also covers your Slack, Teams, WhatsApp,
-Instagram, Messenger, TikTok and X messages too. Search across all your accounts
-and channels at once, catch up on what you missed, see bills, deliveries, events
-and tasks already extracted from your mail, and draft, reply or send from your
-own address.
+also covers your Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X
+messages. Search across all your accounts and channels in one question, catch
+up on what you missed, see bills, deliveries, events and tasks already extracted
+from your mail, and draft, reply or send from any of your addresses.
 
 This repository is the plugin wrapper for Mailopoly's hosted MCP server. It
 contains no code: just the manifests that tell Cursor, Claude Code, Codex and
