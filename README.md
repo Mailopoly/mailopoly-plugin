@@ -16,8 +16,10 @@ mail, and draft, reply or send from any of your addresses.
 This repository is the plugin wrapper for Mailopoly's hosted MCP server. It
 contains no code: just the manifests that tell Cursor, Claude Code, Codex and
 other MCP clients where the server is.
-(`mcp.json` is the Cursor copy and `.mcp.json` the Claude/Codex copy of the
-same server definition.)
+(`mcp.json` is the Cursor copy and `.mcp.json` the Claude/Codex/OpenClaw copy
+of the same server definition. The `.mcp.json` copy also carries
+`"auth": "oauth"`, which is what gives OpenClaw its **Connect** button; other
+clients ignore it.)
 
 ```json
 {
@@ -52,6 +54,13 @@ are needed.
 or add the server directly with
 `claude mcp add --transport http mailopoly https://fastapi.prod.aws.mailopoly.com/mcp-server/`,
 then `/mcp` to sign in.
+
+**OpenClaw** — install *Mailopoly* from the Plugins page (or run
+`openclaw plugins install clawhub:mailopoly`). Then open **Plugins → Mailopoly**
+and, under **Accounts**, choose **Connect**. Sign in to Mailopoly in the browser
+tab that opens, come back and send a new message. OpenClaw keeps running the
+whole time: there is nothing to add with `openclaw mcp`, and no need to quit the
+app or stop the Gateway.
 
 **Claude.ai and ChatGPT** — search for *Mailopoly* in the connector or plugin
 directory and connect from there.

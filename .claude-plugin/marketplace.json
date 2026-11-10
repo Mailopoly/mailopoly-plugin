@@ -11,7 +11,7 @@
       "name": "mailopoly",
       "source": "./",
       "description": "Mailopoly connects all your accounts at once — Gmail, Outlook, Yahoo, iCloud and any IMAP mailbox — plus Slack, Teams, WhatsApp, Instagram, Messenger, TikTok and X with business channels on your plan, and puts your agents on one Switchboard so they can message you and each other, whoever made them. Reading, making changes and sending are separate permissions.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "productivity",
       "keywords": [
         "mailopoly",
