@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.2 — 2026-11-18
+
+- `.mcp.json` in this repository no longer carries `"auth": "oauth"`: the
+  Claude plugin directory accepts only its listed server fields. The server
+  definition is otherwise unchanged, and Claude Code, Cursor and Codex sign in
+  as before.
+- OpenClaw: the package published on ClawHub keeps `"auth": "oauth"` in its
+  own `.mcp.json`, so **Accounts → Connect** works as in 1.0.1.
+
 ## 1.0.1 — 2026-11-10
 
 - OpenClaw: the server is now declared with `"auth": "oauth"`, so the plugin

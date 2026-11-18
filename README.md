@@ -16,10 +16,10 @@ mail, and draft, reply or send from any of your addresses.
 This repository is the plugin wrapper for Mailopoly's hosted MCP server. It
 contains no code: just the manifests that tell Cursor, Claude Code, Codex and
 other MCP clients where the server is.
-(`mcp.json` is the Cursor copy and `.mcp.json` the Claude/Codex/OpenClaw copy
-of the same server definition. The `.mcp.json` copy also carries
-`"auth": "oauth"`, which is what gives OpenClaw its **Connect** button; other
-clients ignore it.)
+(`mcp.json` is the Cursor copy and `.mcp.json` the Claude/Codex copy of the
+same server definition. The package published on ClawHub for OpenClaw adds one
+line to its `.mcp.json`, `"auth": "oauth"`, which is what gives OpenClaw its
+**Connect** button; that line is not in this repository.)
 
 ```json
 {
